@@ -3,11 +3,11 @@ function getHead() {
         <link rel="stylesheet" href="style.css" />
         <link rel="icon" href="assets/favicon.ico" />
         <meta charset="utf-8" />
-        <Title>BLARG! Systems</Title>
-        <meta content="BLARG! Systems" property="og:title" />
-        <meta content="Here at BLARG! Systems, we dare to challenge the next generation of programming. Our new compiled language, BLARG!, pushes toward meeting modern expectations in programming." property="og:description" />
-        <meta content="https://blargsys.com/" property="og:url" />
-        <meta content="https://blargsys.com/assets/logo.png" property="og:image" />
+        <Title>SIDaRS</Title>
+        <meta content="SIDaRS" property="og:title" />
+        <meta content="The Sophisticated Intrusion Detection and Response System." property="og:description" />
+        <meta content="https://https://ccic-sidars.github.io/SIDaRS-Website/" property="og:url" />
+        <meta content="https://https://ccic-sidars.github.io/SIDaRS-Website/assets/logo.png" property="og:image" />
         <meta content="#4e6ab8" data-react-helmet="true" name="theme-color" />
     `)
 }
@@ -17,16 +17,14 @@ function getHeader() {
 		<header>
             <div class="titlebar">
                 <a href="/" aria-hidden="true"><img src="assets/logo.png" /></a>
-                <h1>BLARG! Systems
+                <h1>SIDaRS
                     <br> 
-                    <i>Approaching expectations.</i>
+                    <i>Sophisticated Intrusion Detection and Response.</i>
                 </h1>
             </div>
             <nav>
                 <ul class="navbar">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/objectives">Weekly Objectives</a></li>
-                    <li><a href="/journals">Journals</a></li>
                     <li><a href="/timeline">Timeline</a></li>
                     <li><a href="/repositories">Repositories</a></li>
                     <li><a href="/bibliography">Bibliography</a></li>
@@ -40,7 +38,7 @@ function getHeader() {
 function getFooter() {
     document.write(`
         <footer>
-            <p>Copyright &copy; 2023, BLARG! Systems. All rights reserved.</p>
+            <p>Copyright &copy; 2024, SIDaRS. All rights reserved.</p>
         </footer>
     `)
 }
