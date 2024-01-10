@@ -24,10 +24,10 @@ function getHeader() {
             </div>
             <nav>
                 <ul class="navbar">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/timeline">Timeline</a></li>
-                    <li><a href="/repositories">Repositories</a></li>
-                    <li><a href="/bibliography">Bibliography</a></li>
+                    <li><a href="/SIDaRS-Website/">Home</a></li>
+                    <li><a href="/SIDaRS-Website/timeline">Timeline</a></li>
+                    <li><a href="/SIDaRS-Website/repositories">Repositories</a></li>
+                    <li><a href="/SIDaRS-Website/bibliography">Bibliography</a></li>
                 </ul>
             </nav>
         </header>
