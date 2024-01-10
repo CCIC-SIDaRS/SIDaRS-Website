@@ -16,7 +16,7 @@ function getHeader() {
 	document.write(`
 		<header>
             <div class="titlebar">
-                <a href="/" aria-hidden="true"><img src="assets/logo.png" /></a>
+                <a href="/SIDaRS-Website/" aria-hidden="true"><img src="assets/logo.png" /></a>
                 <h1>SIDaRS
                     <br> 
                     <i>Sophisticated Intrusion Detection and Response.</i>
