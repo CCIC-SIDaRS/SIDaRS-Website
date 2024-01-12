@@ -25,6 +25,7 @@ function getHeader() {
             <nav>
                 <ul class="navbar">
                     <li><a href="/SIDaRS-Website/">Home</a></li>
+                    <li><a href="/SIDaRS-Website/weeklylogs">Weekly Logs</a></li>
                     <li><a href="/SIDaRS-Website/timeline">Timeline</a></li>
                     <li><a href="/SIDaRS-Website/repositories">Repositories</a></li>
                     <li><a href="/SIDaRS-Website/bibliography">Bibliography</a></li>
