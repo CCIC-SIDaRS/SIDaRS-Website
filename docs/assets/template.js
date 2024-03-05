@@ -5,10 +5,15 @@ function getHead() {
         <meta charset="utf-8" />
         <Title>SIDaRS</Title>
         <meta content="SIDaRS" property="og:title" />
-        <meta content="The Sophisticated Intrusion Detection and Response System." property="og:description" />
-        <meta content="https://https://ccic-sidars.github.io/SIDaRS-Website/" property="og:url" />
-        <meta content="https://https://ccic-sidars.github.io/SIDaRS-Website/assets/logo.png" property="og:image" />
-        <meta content="#4e6ab8" data-react-helmet="true" name="theme-color" />
+        <meta name="description" content="The Sophisticated Intrusion Detection and Response System." />
+        <meta name="keywords" content="SIDaRS, Network, Intrusion, Detection, Security, Cyber, Management" />
+        <meta name="author" content="SIDaRS Team">
+        <meta property="og:title" content="SIDaRS" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://https://ccic-sidars.github.io/SIDaRS-Website/" />
+        <meta property="og:image" content="https://https://ccic-sidars.github.io/SIDaRS-Website/assets/logo.png" />
+        <meta property="og:description" content="The Sophisticated Intrusion Detection and Response System." />
+        <meta name="theme-color" content="#4e6ab8">
     `)
 }
 
