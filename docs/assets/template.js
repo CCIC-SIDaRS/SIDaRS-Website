@@ -13,7 +13,7 @@ function getHead() {
         <meta property="og:url" content="https://https://ccic-sidars.github.io/SIDaRS-Website/" />
         <meta property="og:image" content="https://https://ccic-sidars.github.io/SIDaRS-Website/assets/logo.png" />
         <meta property="og:description" content="The Sophisticated Intrusion Detection and Response System." />
-        <meta name="theme-color" content="#4e6ab8">
+        <meta name="theme-color" content="#3dded3">
     `)
 }
 
